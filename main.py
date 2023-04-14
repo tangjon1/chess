@@ -745,4 +745,3 @@ if __name__ == "__main__":
         pg.display.update()
         if console.get_input(True) == "EXIT":
             run = False
-
